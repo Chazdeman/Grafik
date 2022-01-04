@@ -25,6 +25,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="jabloko %282%29.gif" />
+    <Content Include="Mine.png" />
     <Content Include="tort.gif" />
     <Content Include="totem.gif" />
   </ItemGroup>
